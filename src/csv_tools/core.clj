@@ -1,4 +1,4 @@
-(ns zaex.csv-tools)
+(ns csv-tools.core)
 
 (defn csv>rel
   "assumes first row is column names"
